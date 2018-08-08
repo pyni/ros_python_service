@@ -19,7 +19,7 @@ This is a simple ros service to return geometry_msgs/Pose[]
       y: -0.473633669497
       z: 0.348381964619
       w: 0.615329331134
-  - 
+ 
     position: 
       x: -0.449366124824
       y: 0.185664742548
@@ -29,6 +29,6 @@ This is a simple ros service to return geometry_msgs/Pose[]
       y: -0.568188193084
       z: 0.620198771264
       w: -0.339637482232
-
+ - 
  
  
