@@ -1,0 +1,5 @@
+# request params
+int32 obj_id
+---
+# response params
+geometry_msgs/Pose[]  grasp_pose
